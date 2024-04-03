@@ -530,7 +530,7 @@ h1 span{
 
 
 .card{
-  height: 370px;
+  height: 500px;
   width: 370px;
   background-color: #1c2335;
   padding: 3% 8%;
@@ -632,7 +632,7 @@ h1 span{
     
  }
  
-  .download-btn:hover {
+.download-btn:hover {
    background: transparent;
    color: #be4ed2;
    border-color: violet;
